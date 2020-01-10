@@ -1,0 +1,34 @@
+<SECTION>
+<FILE>mx-gtk-frame</FILE>
+<TITLE>MxGtkFrame</TITLE>
+MxGtkFrame
+MxGtkFrameClass
+mx_gtk_frame_new
+<SUBSECTION Standard>
+MX_GTK_FRAME
+MX_GTK_FRAME_CLASS
+MX_GTK_FRAME_GET_CLASS
+MX_GTK_IS_FRAME
+MX_GTK_IS_FRAME_CLASS
+MX_GTK_TYPE_FRAME
+mx_gtk_frame_get_type
+</SECTION>
+
+<SECTION>
+<FILE>mx-gtk-light-switch</FILE>
+<TITLE>MxGtkLightSwitch</TITLE>
+MxGtkLightSwitch
+MxGtkLightSwitchClass
+mx_gtk_light_switch_get_active
+mx_gtk_light_switch_new
+mx_gtk_light_switch_set_active
+<SUBSECTION Standard>
+MX_GTK_IS_LIGHT_SWITCH
+MX_GTK_IS_LIGHT_SWITCH_CLASS
+MX_GTK_LIGHT_SWITCH
+MX_GTK_LIGHT_SWITCH_CLASS
+MX_GTK_LIGHT_SWITCH_GET_CLASS
+MX_GTK_TYPE_LIGHT_SWITCH
+mx_gtk_light_switch_get_type
+</SECTION>
+
