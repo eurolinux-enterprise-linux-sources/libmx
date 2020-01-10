@@ -1,6 +1,6 @@
 Name:          libmx
 Version:       1.4.7
-Release:       7%{?dist}
+Release:       9%{?dist}
 Summary:       A clutter widget toolkit
 
 Group:         System Environment/Libraries
@@ -89,6 +89,12 @@ find %{buildroot} -name '*.la' -exec rm -f {} ';'
 %{_datadir}/gtk-doc/html/mx-gtk
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 1.4.7-9
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.4.7-8
+- Mass rebuild 2013-12-27
+
 * Fri Jun 21 2013 Matthias Clasen <mclasen@redhat.com> - 1.4.7-7
 - Ship NEWS instead of ChangeLog (much smaller)
 
